@@ -45,4 +45,6 @@ group :development, :test do
   gem 'rest-client'
 
   gem 'dotenv-rails'
+
+  gem 'rspec-rails'
 end
